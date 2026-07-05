@@ -8,3 +8,7 @@ theme = 'risotto'
  title = 'Polski blog o IT i cyberbezpieczeństwie'
  logo = '💻'
 
+[[menu.main]]
+ name = 'Wpisy'
+ url = '/posts/'
+ weight = 1
