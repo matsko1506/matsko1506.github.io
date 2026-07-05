@@ -3,7 +3,8 @@ locale = 'en-us'
 title = 'matsko1506 blog'
 theme = 'risotto'
 
-[params]
+[params.about]
  author = 'matsko1506'
-
+ description = 'Blog'
+ logo = '💻'
 
