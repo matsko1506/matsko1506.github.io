@@ -1,0 +1,3 @@
+[submodule "risotto"]
+	path = risotto
+	url = https://github.com/matsko1506/risotto.git

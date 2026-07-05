@@ -1,0 +1,9 @@
+baseURL = 'https://matsko1506.github.io/'
+locale = 'en-us'
+title = 'matsko1506 blog'
+theme = 'risotto'
+
+[params]
+ author = 'matsko1506'
+
+
